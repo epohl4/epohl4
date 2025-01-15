@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+* How to reach me: enriquepohlmedina@gmail.com
+* I'm currently working on whatever
+* Trying to improve my drone hobbying (creditto Joshua Bardwell and my MQP)  
 <!--
 **epohl4/epohl4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
